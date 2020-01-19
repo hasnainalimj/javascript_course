@@ -1,0 +1,17 @@
+.radius{
+    border: 2px solid red
+}
+
+.borderRadius{
+    border-radius: 5px;
+}
+
+.styleText{
+    font-size: 24px;
+    color: green;
+    font-weight: bold;
+}
+
+.fontFamily{
+    font-family: fantasy;
+}
